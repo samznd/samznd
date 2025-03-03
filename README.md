@@ -11,7 +11,7 @@ Currently serving in public/military service, I am available for freelance or pa
 
 👨‍💻 [My Portfolio](https://samzandian.com)
 
-📄 [Download Resume](https://drive.google.com/file/d/1SO4PtM0dYLj4HhhODuc5OCR8qUfbldOv/view)
+📄 [Download Resume](https://drive.google.com/file/d/1LhyvzTdohoGFvOv8bzbWl7vr5Tak09It/view?usp=sharing)
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-076678?style=flat&logo=Linkedin&logoColor=fbf1c7)](https://www.linkedin.com/in/sam-zandian-98155a120/)
 [![Telegram](https://img.shields.io/badge/-Telegram-076678?style=flat&logo=telegram&logoColor=fbf1c7)](https://telegram.me/sam_znd/)
