@@ -1,10 +1,6 @@
 # Hi 👋, I'm **Sam**.
 
-Passionate Front-End Engineer with +4 years of experience in developing high-performance, scalable,
-and visually engaging web applications. Strong expertise in modern front-end technologies, with a solid
-foundation in back-end development using Go.
-Currently serving in public/military service, I am available for freelance or part-time projects.
-
+Front-End Engineer with 5+ years of experience building high-performance, scalable, and user-focused web applications. Specialized in modern front-end ecosystems (React, Next.js, TypeScript, Tailwind CSS) with a proven track record of improving performance and maintainability in production-scale projects. Experienced in agile and remote environments, passionate about crafting intuitive UIs and delivering impactful, high-quality solutions. 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=samznd&count_private=true&show_icons=false&include_all_commits=true&hide_title=true&theme=gruvbox&bg_color=0D1117&border_color=0D1117&text_color=ffffff)
 
