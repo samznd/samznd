@@ -1,6 +1,6 @@
 # Hi 👋, I'm **Sam**.
 
-Front-End Engineer with 5+ years of experience building high-performance, scalable, and user-focused web applications. Specialized in modern front-end ecosystems (React, Next.js, TypeScript, Tailwind CSS) with a proven track record of improving performance and maintainability in production-scale projects. Experienced in agile and remote environments, passionate about crafting intuitive UIs and delivering impactful, high-quality solutions. 
+Front-End Engineer with 5+ years of experience designing and delivering high-performance, scalable web applications across travel tech, fintech, and real estate domains. Specialised in React, Next.js, TypeScript, and Tailwind CSS, with a strong track record of improving performance and maintainability in production environments. Experienced in agile and fully remote settings, with a consistent focus on clean architecture, reusable component systems, and exceptional user interfaces. Currently seeking international opportunities.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=samznd&count_private=true&show_icons=false&include_all_commits=true&hide_title=true&theme=gruvbox&bg_color=0D1117&border_color=0D1117&text_color=ffffff)
 
